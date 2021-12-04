@@ -54,7 +54,7 @@ public class Personagem implements Cloneable{
 
     public String toString() {
         return
-                "Player level=" + level +
+                "Personagem level=" + level +
                         ", nome='" + nome + "'"+
                         ", atributos=" + atributos +
                         ", xp=" + xp ;
